@@ -32,6 +32,9 @@ This project is licensed under the MIT License - see the [![License: MIT](https:
 🙏 Acknowledgments
 
 [![YOLO](https://img.shields.io/badge/YOLO-v8-%234A154B?logo=YOLO)](https://ultralytics.com/) by Ultralytics 🎯
+
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch)](https://pytorch.org/) community for deep learning tools 🔧
+
 ⭐ Star this repo if you find it useful!
+
 🚑 Stay alert, save lives! 💙
