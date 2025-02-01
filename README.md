@@ -11,7 +11,7 @@ A real-time drowsiness detection system using **YOLO (You Only Look Once)** for 
 
 ## 📖 Overview
 
-This repository contains a deep learning model to detect drowsiness in drivers using **webcam feed** or pre-recorded videos. The system alerts users with an audible alarm 🚨 when signs of drowsiness (like closed eyes or yawning) are detected. Perfect for enhancing road safety! 🚦👨‍✈️
+This repository contains a deep learning model to detect drowsiness in drivers using **webcam feed** or pre-recorded videos.Perfect for enhancing road safety! 🚦👨‍✈️
 
 ### Key Features 🌟
 - **Real-time detection** using YOLO for high-speed inference 🚀
