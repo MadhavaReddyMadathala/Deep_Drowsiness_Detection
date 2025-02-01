@@ -23,9 +23,28 @@ This repository contains a deep learning model to detect drowsiness in drivers u
 
 ---
 
-## 🛠️ Installation
+🤝 Contributing
+Contributions are welcome! 🎉
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/deep-drowsiness-detection.git
-   cd deep-drowsiness-detection
+Fork the repository.
+
+Create a new branch: git checkout -b feature/your-feature.
+
+Commit changes: git commit -m "Add your feature".
+
+Push to the branch: git push origin feature/your-feature.
+
+Open a Pull Request.
+
+📜 License
+This project is licensed under the MIT License - see LICENSE for details.
+
+🙏 Acknowledgments
+YOLO by Ultralytics 🎯
+
+PyTorch community for deep learning tools 🔧
+
+OpenCV for real-time vision support 👁️
+
+⭐ Star this repo if you find it useful!
+🚑 Stay alert, save lives! 💙
