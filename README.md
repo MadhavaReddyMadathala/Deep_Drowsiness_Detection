@@ -11,7 +11,7 @@ A real-time drowsiness detection system using **YOLO (You Only Look Once)** for 
 
 ## 📖 Overview
 
-This repository contains a deep learning model to detect drowsiness in drivers using **webcam feed** or pre-recorded videos. The system alerts users with an audible alarm 🚨 when signs of drowsiness (like closed eyes or yawning) are detected. Perfect for enhancing road safety! 🚦👨✈️
+This repository contains a deep learning model to detect drowsiness in drivers using **webcam feed** or pre-recorded videos. The system alerts users with an audible alarm 🚨 when signs of drowsiness (like closed eyes or yawning) are detected. Perfect for enhancing road safety! 🚦👨‍✈️
 
 ### Key Features 🌟
 - **Real-time detection** using YOLO for high-speed inference 🚀
@@ -26,25 +26,13 @@ This repository contains a deep learning model to detect drowsiness in drivers u
 🤝 Contributing
 Contributions are welcome! 🎉
 
-Fork the repository.
-
-Create a new branch: git checkout -b feature/your-feature.
-
-Commit changes: git commit -m "Add your feature".
-
-Push to the branch: git push origin feature/your-feature.
-
-Open a Pull Request.
-
 📜 License
-This project is licensed under the MIT License - see LICENSE for details.
+This project is licensed under the MIT License - see the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) file for details.
 
 🙏 Acknowledgments
-YOLO by Ultralytics 🎯
 
-PyTorch community for deep learning tools 🔧
-
-OpenCV for real-time vision support 👁️
-
+[![YOLO](https://img.shields.io/badge/YOLO-v8-%234A154B?logo=YOLO)](https://ultralytics.com/) by Ultralytics 🎯
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch)](https://pytorch.org/) community for deep learning tools 🔧
+[!https://opencv.org/] for real-time vision support 👁️
 ⭐ Star this repo if you find it useful!
 🚑 Stay alert, save lives! 💙
